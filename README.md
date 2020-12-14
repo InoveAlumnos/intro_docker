@@ -16,4 +16,7 @@ El archivo es el stack.yml de la carpeta de instalación de Potgre SQL__\
 ### 2 - Entorno de desarrollo
 Se crea un entorno de desarrollo y se pone a prueba para conectarlo a la base de datos creada.
 
+# Consultas
+alumnos@inove.com.ar
+
 
